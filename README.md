@@ -62,7 +62,7 @@ half(17) → 8.5
 Call your half method in the main method and see that it works as intended. When you call it, store it into an appropriately named variable and then print out that variable.  
 
 7. Write a method called <b>roundPositiveValueToNearestInteger</b> that takes a double that is positive and rounds this value to the nearest integer. 
-Below is an example of a call to the half method.
+Below is an example of a call to the roundPositiveValueToNearestInteger method.
 
 roundPositiveValueToNearestInteger(8.5) → 9
 
@@ -71,7 +71,7 @@ roundPositiveValueToNearestInteger(8.49) → 8
 Call your roundPositiveValueToNearestInteger method in the main method and see that it works as intended. When you call it, store it into an appropriately named variable and then print out that variable. Use casting in your solution to achieve the desired output. 
 
 8. Write a method called <b>roundNegativeValueToNearestInteger</b> that takes a double that is negative and rounds this value to the nearest integer.
-Below is an example of a call to the half method.
+Below is an example of a call to the roundNegativeValueToNearestInteger method.
 
 roundNegativeValueToNearestInteger(-8.5) → -9
 
