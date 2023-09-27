@@ -48,7 +48,7 @@ Call your afternoonGreeting method in the main method and see that it works as i
 5. Write a method called <b>triple</b>
 Below is an example of a call to the triple method.
 
-triple(“oohbaby”) → prints “oohbabyoohbabyoohbaby”	
+triple(“oohbaby”) → oohbabyoohbabyoohbaby	
 
 Call your triple method in the main method and see that it works as intended. When you call it, store it into an appropriately named variable and then print out that variable. 
 
